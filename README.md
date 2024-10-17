@@ -1,1 +1,2 @@
-# Hexxit-Requiem
+# Introduce
+Hexxit Requiem is a refined successor to the original Hexxit modpack, immersing players in an unending adventure. This modpack not only upholds the spirit of exploration and adventure from the original Hexxit but also expands gameplay with a plethora of new features and enhancements. From delving into perilous dungeons and battling mythical creatures to uncovering hidden treasures, Hexxit Requiem promises to deliver a unique and captivating adventure experience.
